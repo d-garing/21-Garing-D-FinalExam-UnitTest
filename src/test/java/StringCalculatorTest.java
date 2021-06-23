@@ -17,6 +17,6 @@ class StringCalculatorTest {
     @Test
     public void testHigh()
     {
-        assertEquals(1,StringCalculator.add("1,1000"));
+        assertEquals(1,StringCalculator.add("1,1001"));
     }
 }
